@@ -3,12 +3,12 @@ from requests.auth import HTTPBasicAuth
 import random
 
 id = ""
-url = f"https://api.nytimes.com/svc/movies/v2/critics/{id}.json"
+URL = f"https://api.nytimes.com/svc/movies/v2/critics/{id}.json"
 params = {'api-key':'9eU3GwocQRJ3rOcFjBMAYh5MRUAh5WbG'}
 
 
 def get_critics(id="all"):
-    response = requests.get(url, params=params)
+    response = requests.get(URL, params=params)
     return response.json(), response.json()["num_results"]
 
 

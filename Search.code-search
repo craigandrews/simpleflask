@@ -1,0 +1,647 @@
+# Query: null
+# ContextLines: 1
+
+
+160 results - 2 files
+
+test_critics.py:
+   28            "display_name":"Renata Adler",
+   29:           "multimedia":null,
+   30            "seo_name":"Renata-Adler",
+
+   36            "display_name":"Robert Alden",
+   37:           "multimedia":null,
+   38            "seo_name":"Robert-Alden",
+
+   44            "display_name":"Eugene Archer",
+   45:           "multimedia":null,
+   46            "seo_name":"Eugene-Archer",
+
+   52            "display_name":"Miriam Bale",
+   53:           "multimedia":null,
+   54            "seo_name":"Miriam-Bale",
+
+   60            "display_name":"Felicity Barringer",
+   61:           "multimedia":null,
+   62            "seo_name":"Felicity-Barringer",
+
+   68            "display_name":"Richard Bernstein",
+   69:           "multimedia":null,
+   70            "seo_name":"Richard-Bernstein",
+
+   76            "display_name":"Ben Brantley",
+   77:           "multimedia":null,
+   78            "seo_name":"Ben-Brantley",
+
+   84            "display_name":"D. J. R. Bruckner",
+   85:           "multimedia":null,
+   86            "seo_name":"D-J-R-Bruckner",
+
+   92            "display_name":"Paul Brunick",
+   93:           "multimedia":null,
+   94            "seo_name":"Paul-Brunick",
+
+  100            "display_name":"Tom Buckley",
+  101:           "multimedia":null,
+  102            "seo_name":"Tom-Buckley",
+
+  108            "display_name":"Kevin Cahillane",
+  109:           "multimedia":null,
+  110            "seo_name":"Kevin-Cahillane",
+
+  116            "display_name":"Vincent Canby",
+  117:           "multimedia":null,
+  118            "seo_name":"Vincent-Canby",
+
+  124            "display_name":"Jeannette Catsoulis",
+  125:           "multimedia":null,
+  126            "seo_name":"Jeannette-Catsoulis",
+
+  132            "display_name":"Carina Chocano",
+  133:           "multimedia":null,
+  134            "seo_name":"Carina-Chocano",
+
+  140            "display_name":"John Corry",
+  141:           "multimedia":null,
+  142            "seo_name":"John-Corry",
+
+  148            "display_name":"B. R. Crisler",
+  149:           "multimedia":null,
+  150            "seo_name":"B-R-Crisler",
+
+  156            "display_name":"Bosley Crowther",
+  157:           "multimedia":null,
+  158            "seo_name":"Bosley-Crowther",
+
+  164            "display_name":"Nina Darnton",
+  165:           "multimedia":null,
+  166            "seo_name":"Nina-Darnton",
+
+  172            "display_name":"David DeWitt",
+  173:           "multimedia":null,
+  174            "seo_name":"David-DeWitt",
+
+  180            "display_name":"Jennifer Dunning",
+  181:           "multimedia":null,
+  182            "seo_name":"Jennifer-Dunning",
+
+  188            "display_name":"Richard Eder",
+  189:           "multimedia":null,
+  190            "seo_name":"Richard-Eder",
+
+  196            "display_name":"Anita Gates",
+  197:           "multimedia":null,
+  198            "seo_name":"Anita-Gates",
+
+  204            "display_name":"Neil Genzlinger",
+  205:           "multimedia":null,
+  206            "seo_name":"Neil-Genzlinger",
+
+  212            "display_name":"Morris Gilbert",
+  213:           "multimedia":null,
+  214            "seo_name":"Morris-Gilbert",
+
+  220            "display_name":"Harry Gilroy",
+  221:           "multimedia":null,
+  222            "seo_name":"Harry-Gilroy",
+
+  228            "display_name":"Daniel M. Gold",
+  229:           "multimedia":null,
+  230            "seo_name":"Daniel-M-Gold",
+
+  236            "display_name":"Walter Goodman",
+  237:           "multimedia":null,
+  238            "seo_name":"Walter-Goodman",
+
+  244            "display_name":"Jack Gould",
+  245:           "multimedia":null,
+  246            "seo_name":"Jack-Gould",
+
+  252            "display_name":"Roger Greenspun",
+  253:           "multimedia":null,
+  254            "seo_name":"Roger-Greenspun",
+
+  260            "display_name":"Mike Hale",
+  261:           "multimedia":null,
+  262            "seo_name":"Mike-Hale",
+
+  268            "display_name":"Mordaunt Hall",
+  269:           "multimedia":null,
+  270            "seo_name":"Mordaunt-Hall",
+
+  276            "display_name":"Donal J. Henahan",
+  277:           "multimedia":null,
+  278            "seo_name":"Donal-J-Henahan",
+
+  284            "display_name":"Nicole Herrington",
+  285:           "multimedia":null,
+  286            "seo_name":"Nicole-Herrington",
+
+  292            "display_name":"Caryn James",
+  293:           "multimedia":null,
+  294            "seo_name":"Caryn-James",
+
+  300            "display_name":"Stanley Kauffman",
+  301:           "multimedia":null,
+  302            "seo_name":"Stanley-Kauffman",
+
+  308            "display_name":"Dave Kehr",
+  309:           "multimedia":null,
+  310            "seo_name":"Dave-Kehr",
+
+  316            "display_name":"Ben Kenigsberg",
+  317:           "multimedia":null,
+  318            "seo_name":"Ben-Kenigsberg",
+
+  324            "display_name":"Laura Kern",
+  325:           "multimedia":null,
+  326            "seo_name":"Laura-Kern",
+
+  332            "display_name":"Peter Kihss",
+  333:           "multimedia":null,
+  334            "seo_name":"Peter-Kihss",
+
+  340            "display_name":"Wayne King",
+  341:           "multimedia":null,
+  342            "seo_name":"Wayne-King",
+
+  348            "display_name":"Anna Kisselgoff",
+  349:           "multimedia":null,
+  350            "seo_name":"Anna-Kisselgoff",
+
+  356            "display_name":"Hilton Kramer",
+  357:           "multimedia":null,
+  358            "seo_name":"Hilton-Kramer",
+
+  364            "display_name":"Nathan Lee",
+  365:           "multimedia":null,
+  366            "seo_name":"Nathan-Lee",
+
+  372            "display_name":"Manohla Dargis",
+  373:           "multimedia":null,
+  374            "seo_name":"Manohla-Dargis",
+
+  380            "display_name":"Ernest Marshall",
+  381:           "multimedia":null,
+  382            "seo_name":"Ernest-Marshall",
+
+  388            "display_name":"Ned Martel",
+  389:           "multimedia":null,
+  390            "seo_name":"Ned-Martel",
+
+  396            "display_name":"Janet Maslin",
+  397:           "multimedia":null,
+  398            "seo_name":"Janet-Maslin",
+
+  404            "display_name":"Herbert L. Matthews",
+  405:           "multimedia":null,
+  406            "seo_name":"Herbert-L-Matthews",
+
+  412            "display_name":"Patricia S. McCormick",
+  413:           "multimedia":null,
+  414            "seo_name":"Patricia-S-McCormick",
+
+  420            "display_name":"John T. McManus",
+  421:           "multimedia":null,
+  422            "seo_name":"John-T-McManus",
+
+  428            "display_name":"W. L. Middleton",
+  429:           "multimedia":null,
+  430            "seo_name":"W-L-Middleton",
+
+  436            "display_name":"Elvis Mitchell",
+  437:           "multimedia":null,
+  438            "seo_name":"Elvis-Mitchell",
+
+  444            "display_name":"Herbert Mitgang",
+  445:           "multimedia":null,
+  446            "seo_name":"Herbert-Mitgang",
+
+  452            "display_name":"Charles Morgan",
+  453:           "multimedia":null,
+  454            "seo_name":"Charles-Morgan",
+
+  460            "display_name":"Richard W. Nason",
+  461:           "multimedia":null,
+  462            "seo_name":"Richard-W-Nason",
+
+  468            "display_name":"Victor Navasky",
+  469:           "multimedia":null,
+  470            "seo_name":"Victor-Navasky",
+
+  476            "display_name":"Peter M. Nichols",
+  477:           "multimedia":null,
+  478            "seo_name":"Peter-M-Nichols",
+
+  484            "display_name":"Holcomb B. Noble",
+  485:           "multimedia":null,
+  486            "seo_name":"Holcomb-B-Noble",
+
+  492            "display_name":"Frank S. Nugent",
+  493:           "multimedia":null,
+  494            "seo_name":"Frank-S-Nugent",
+
+  500            "display_name":"Suzanne O'Connor",
+  501:           "multimedia":null,
+  502            "seo_name":"Suzanne-OConnor",
+
+  508            "display_name":"Jon Pareles",
+  509:           "multimedia":null,
+  510            "seo_name":"Jon-Pareles",
+
+  516            "display_name":"Thomas M. Pryor",
+  517:           "multimedia":null,
+  518            "seo_name":"Thomas-M-Pryor",
+
+  524            "display_name":"Nicolas Rapold",
+  525:           "multimedia":null,
+  526            "seo_name":"Nicolas-Rapold",
+
+  532            "display_name":"Julie Salamon",
+  533:           "multimedia":null,
+  534            "seo_name":"Julie-Salamon",
+
+  540            "display_name":"Rachel Saltz",
+  541:           "multimedia":null,
+  542            "seo_name":"Rachel-Saltz",
+
+  548            "display_name":"Nora Sayre",
+  549:           "multimedia":null,
+  550            "seo_name":"Nora-Sayre",
+
+  556            "display_name":"Harold C. Schonberg",
+  557:           "multimedia":null,
+  558            "seo_name":"Harold-C-Schonberg",
+
+  564            "display_name":"Matt Zoller Seitz",
+  565:           "multimedia":null,
+  566            "seo_name":"Matt-Zoller-Seitz",
+
+  572            "display_name":"Andre Sennwald",
+  573:           "multimedia":null,
+  574            "seo_name":"Andre-Sennwald",
+
+  580            "display_name":"Richard F. Shepard",
+  581:           "multimedia":null,
+  582            "seo_name":"Richard-F-Shepard",
+
+  588            "display_name":"Harry T. Smith",
+  589:           "multimedia":null,
+  590            "seo_name":"Harry-T-Smith",
+
+  612            "display_name":"Michael Stern",
+  613:           "multimedia":null,
+  614            "seo_name":"Michael-Stern",
+
+  620            "display_name":"Dana Stevens",
+  621:           "multimedia":null,
+  622            "seo_name":"Dana-Stevens",
+
+  628            "display_name":"Theodore Strauss",
+  629:           "multimedia":null,
+  630            "seo_name":"Theodore-Strauss",
+
+  636            "display_name":"Dan Sullivan",
+  637:           "multimedia":null,
+  638            "seo_name":"Dan-Sullivan",
+
+  644            "display_name":"Howard Thompson",
+  645:           "multimedia":null,
+  646            "seo_name":"Howard-Thompson",
+
+  652            "display_name":"C. Hooper Trask",
+  653:           "multimedia":null,
+  654            "seo_name":"C-Hooper-Trask",
+
+  660            "display_name":"Lawrence Van Gelder",
+  661:           "multimedia":null,
+  662            "seo_name":"Lawrence-Van-Gelder",
+
+  668            "display_name":"Andy Webster",
+  669:           "multimedia":null,
+  670            "seo_name":"Andy-Webster",
+
+  676            "display_name":"A. H. Weiler",
+  677:           "multimedia":null,
+  678            "seo_name":"A-H-Weiler",
+
+lib/all_critics_expected.json:
+   23            "display_name":"Renata Adler",
+   24:           "multimedia":null,
+   25            "seo_name":"Renata-Adler",
+
+   31            "display_name":"Robert Alden",
+   32:           "multimedia":null,
+   33            "seo_name":"Robert-Alden",
+
+   39            "display_name":"Eugene Archer",
+   40:           "multimedia":null,
+   41            "seo_name":"Eugene-Archer",
+
+   47            "display_name":"Miriam Bale",
+   48:           "multimedia":null,
+   49            "seo_name":"Miriam-Bale",
+
+   55            "display_name":"Felicity Barringer",
+   56:           "multimedia":null,
+   57            "seo_name":"Felicity-Barringer",
+
+   63            "display_name":"Richard Bernstein",
+   64:           "multimedia":null,
+   65            "seo_name":"Richard-Bernstein",
+
+   71            "display_name":"Ben Brantley",
+   72:           "multimedia":null,
+   73            "seo_name":"Ben-Brantley",
+
+   79            "display_name":"D. J. R. Bruckner",
+   80:           "multimedia":null,
+   81            "seo_name":"D-J-R-Bruckner",
+
+   87            "display_name":"Paul Brunick",
+   88:           "multimedia":null,
+   89            "seo_name":"Paul-Brunick",
+
+   95            "display_name":"Tom Buckley",
+   96:           "multimedia":null,
+   97            "seo_name":"Tom-Buckley",
+
+  103            "display_name":"Kevin Cahillane",
+  104:           "multimedia":null,
+  105            "seo_name":"Kevin-Cahillane",
+
+  111            "display_name":"Vincent Canby",
+  112:           "multimedia":null,
+  113            "seo_name":"Vincent-Canby",
+
+  119            "display_name":"Jeannette Catsoulis",
+  120:           "multimedia":null,
+  121            "seo_name":"Jeannette-Catsoulis",
+
+  127            "display_name":"Carina Chocano",
+  128:           "multimedia":null,
+  129            "seo_name":"Carina-Chocano",
+
+  135            "display_name":"John Corry",
+  136:           "multimedia":null,
+  137            "seo_name":"John-Corry",
+
+  143            "display_name":"B. R. Crisler",
+  144:           "multimedia":null,
+  145            "seo_name":"B-R-Crisler",
+
+  151            "display_name":"Bosley Crowther",
+  152:           "multimedia":null,
+  153            "seo_name":"Bosley-Crowther",
+
+  159            "display_name":"Nina Darnton",
+  160:           "multimedia":null,
+  161            "seo_name":"Nina-Darnton",
+
+  167            "display_name":"David DeWitt",
+  168:           "multimedia":null,
+  169            "seo_name":"David-DeWitt",
+
+  175            "display_name":"Jennifer Dunning",
+  176:           "multimedia":null,
+  177            "seo_name":"Jennifer-Dunning",
+
+  183            "display_name":"Richard Eder",
+  184:           "multimedia":null,
+  185            "seo_name":"Richard-Eder",
+
+  191            "display_name":"Anita Gates",
+  192:           "multimedia":null,
+  193            "seo_name":"Anita-Gates",
+
+  199            "display_name":"Neil Genzlinger",
+  200:           "multimedia":null,
+  201            "seo_name":"Neil-Genzlinger",
+
+  207            "display_name":"Morris Gilbert",
+  208:           "multimedia":null,
+  209            "seo_name":"Morris-Gilbert",
+
+  215            "display_name":"Harry Gilroy",
+  216:           "multimedia":null,
+  217            "seo_name":"Harry-Gilroy",
+
+  223            "display_name":"Daniel M. Gold",
+  224:           "multimedia":null,
+  225            "seo_name":"Daniel-M-Gold",
+
+  231            "display_name":"Walter Goodman",
+  232:           "multimedia":null,
+  233            "seo_name":"Walter-Goodman",
+
+  239            "display_name":"Jack Gould",
+  240:           "multimedia":null,
+  241            "seo_name":"Jack-Gould",
+
+  247            "display_name":"Roger Greenspun",
+  248:           "multimedia":null,
+  249            "seo_name":"Roger-Greenspun",
+
+  255            "display_name":"Mike Hale",
+  256:           "multimedia":null,
+  257            "seo_name":"Mike-Hale",
+
+  263            "display_name":"Mordaunt Hall",
+  264:           "multimedia":null,
+  265            "seo_name":"Mordaunt-Hall",
+
+  271            "display_name":"Donal J. Henahan",
+  272:           "multimedia":null,
+  273            "seo_name":"Donal-J-Henahan",
+
+  279            "display_name":"Nicole Herrington",
+  280:           "multimedia":null,
+  281            "seo_name":"Nicole-Herrington",
+
+  287            "display_name":"Caryn James",
+  288:           "multimedia":null,
+  289            "seo_name":"Caryn-James",
+
+  295            "display_name":"Stanley Kauffman",
+  296:           "multimedia":null,
+  297            "seo_name":"Stanley-Kauffman",
+
+  303            "display_name":"Dave Kehr",
+  304:           "multimedia":null,
+  305            "seo_name":"Dave-Kehr",
+
+  311            "display_name":"Ben Kenigsberg",
+  312:           "multimedia":null,
+  313            "seo_name":"Ben-Kenigsberg",
+
+  319            "display_name":"Laura Kern",
+  320:           "multimedia":null,
+  321            "seo_name":"Laura-Kern",
+
+  327            "display_name":"Peter Kihss",
+  328:           "multimedia":null,
+  329            "seo_name":"Peter-Kihss",
+
+  335            "display_name":"Wayne King",
+  336:           "multimedia":null,
+  337            "seo_name":"Wayne-King",
+
+  343            "display_name":"Anna Kisselgoff",
+  344:           "multimedia":null,
+  345            "seo_name":"Anna-Kisselgoff",
+
+  351            "display_name":"Hilton Kramer",
+  352:           "multimedia":null,
+  353            "seo_name":"Hilton-Kramer",
+
+  359            "display_name":"Nathan Lee",
+  360:           "multimedia":null,
+  361            "seo_name":"Nathan-Lee",
+
+  367            "display_name":"Manohla Dargis",
+  368:           "multimedia":null,
+  369            "seo_name":"Manohla-Dargis",
+
+  375            "display_name":"Ernest Marshall",
+  376:           "multimedia":null,
+  377            "seo_name":"Ernest-Marshall",
+
+  383            "display_name":"Ned Martel",
+  384:           "multimedia":null,
+  385            "seo_name":"Ned-Martel",
+
+  391            "display_name":"Janet Maslin",
+  392:           "multimedia":null,
+  393            "seo_name":"Janet-Maslin",
+
+  399            "display_name":"Herbert L. Matthews",
+  400:           "multimedia":null,
+  401            "seo_name":"Herbert-L-Matthews",
+
+  407            "display_name":"Patricia S. McCormick",
+  408:           "multimedia":null,
+  409            "seo_name":"Patricia-S-McCormick",
+
+  415            "display_name":"John T. McManus",
+  416:           "multimedia":null,
+  417            "seo_name":"John-T-McManus",
+
+  423            "display_name":"W. L. Middleton",
+  424:           "multimedia":null,
+  425            "seo_name":"W-L-Middleton",
+
+  431            "display_name":"Elvis Mitchell",
+  432:           "multimedia":null,
+  433            "seo_name":"Elvis-Mitchell",
+
+  439            "display_name":"Herbert Mitgang",
+  440:           "multimedia":null,
+  441            "seo_name":"Herbert-Mitgang",
+
+  447            "display_name":"Charles Morgan",
+  448:           "multimedia":null,
+  449            "seo_name":"Charles-Morgan",
+
+  455            "display_name":"Richard W. Nason",
+  456:           "multimedia":null,
+  457            "seo_name":"Richard-W-Nason",
+
+  463            "display_name":"Victor Navasky",
+  464:           "multimedia":null,
+  465            "seo_name":"Victor-Navasky",
+
+  471            "display_name":"Peter M. Nichols",
+  472:           "multimedia":null,
+  473            "seo_name":"Peter-M-Nichols",
+
+  479            "display_name":"Holcomb B. Noble",
+  480:           "multimedia":null,
+  481            "seo_name":"Holcomb-B-Noble",
+
+  487            "display_name":"Frank S. Nugent",
+  488:           "multimedia":null,
+  489            "seo_name":"Frank-S-Nugent",
+
+  495            "display_name":"Suzanne O'Connor",
+  496:           "multimedia":null,
+  497            "seo_name":"Suzanne-OConnor",
+
+  503            "display_name":"Jon Pareles",
+  504:           "multimedia":null,
+  505            "seo_name":"Jon-Pareles",
+
+  511            "display_name":"Thomas M. Pryor",
+  512:           "multimedia":null,
+  513            "seo_name":"Thomas-M-Pryor",
+
+  519            "display_name":"Nicolas Rapold",
+  520:           "multimedia":null,
+  521            "seo_name":"Nicolas-Rapold",
+
+  527            "display_name":"Julie Salamon",
+  528:           "multimedia":null,
+  529            "seo_name":"Julie-Salamon",
+
+  535            "display_name":"Rachel Saltz",
+  536:           "multimedia":null,
+  537            "seo_name":"Rachel-Saltz",
+
+  543            "display_name":"Nora Sayre",
+  544:           "multimedia":null,
+  545            "seo_name":"Nora-Sayre",
+
+  551            "display_name":"Harold C. Schonberg",
+  552:           "multimedia":null,
+  553            "seo_name":"Harold-C-Schonberg",
+
+  559            "display_name":"Matt Zoller Seitz",
+  560:           "multimedia":null,
+  561            "seo_name":"Matt-Zoller-Seitz",
+
+  567            "display_name":"Andre Sennwald",
+  568:           "multimedia":null,
+  569            "seo_name":"Andre-Sennwald",
+
+  575            "display_name":"Richard F. Shepard",
+  576:           "multimedia":null,
+  577            "seo_name":"Richard-F-Shepard",
+
+  583            "display_name":"Harry T. Smith",
+  584:           "multimedia":null,
+  585            "seo_name":"Harry-T-Smith",
+
+  607            "display_name":"Michael Stern",
+  608:           "multimedia":null,
+  609            "seo_name":"Michael-Stern",
+
+  615            "display_name":"Dana Stevens",
+  616:           "multimedia":null,
+  617            "seo_name":"Dana-Stevens",
+
+  623            "display_name":"Theodore Strauss",
+  624:           "multimedia":null,
+  625            "seo_name":"Theodore-Strauss",
+
+  631            "display_name":"Dan Sullivan",
+  632:           "multimedia":null,
+  633            "seo_name":"Dan-Sullivan",
+
+  639            "display_name":"Howard Thompson",
+  640:           "multimedia":null,
+  641            "seo_name":"Howard-Thompson",
+
+  647            "display_name":"C. Hooper Trask",
+  648:           "multimedia":null,
+  649            "seo_name":"C-Hooper-Trask",
+
+  655            "display_name":"Lawrence Van Gelder",
+  656:           "multimedia":null,
+  657            "seo_name":"Lawrence-Van-Gelder",
+
+  663            "display_name":"Andy Webster",
+  664:           "multimedia":null,
+  665            "seo_name":"Andy-Webster",
+
+  671            "display_name":"A. H. Weiler",
+  672:           "multimedia":null,
+  673            "seo_name":"A-H-Weiler",
