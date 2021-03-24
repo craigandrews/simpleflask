@@ -1,14 +1,25 @@
 from flask import Flask
-
+from critics import get_critics, pick_random_critic
 
 def create_app():
     app = Flask("test")
 
     @app.route("/")
     def home():
-        return "Hello, world! Now for realz."
+        return "yay!"
+
+    @app.route('/critics/', methods=["GET"])
+    def all_critics():
+        return get_critics()
+
+    @app.route('/critics/random', methods=["GET"])
+    def random_critic():
+        return pick_random_critic(id)
 
     return app
+
+
+
 
 
 if __name__ == "__main__":

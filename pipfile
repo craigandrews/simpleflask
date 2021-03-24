@@ -10,7 +10,7 @@ requests = "==2.24.0"
 flask = "==1.1.2"
 
 [requires]
-python_version = "3.9"
+python_version = "3.9.2"
 
 [scripts]
 app = "python3 server.py"
