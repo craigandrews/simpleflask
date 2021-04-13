@@ -14,6 +14,10 @@ def get_critics(id="all"):
 
 def pick_random_critic(id):
     all, number_of_all = get_critics(id)
-    pick_one = random.randint(0, number_of_all)
+    pick_one = random.randint(0, number_of_all-1)
     random_critic = all["results"][pick_one]
     return random_critic
+
+
+def specific_critic(id):
+    return get_critics(id=id)
