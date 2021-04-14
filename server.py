@@ -19,6 +19,7 @@ def create_app():
     def get_individual_critic():
         return individual_critic(id)
 
+    return app
 
 if __name__ == "__main__":
     app = create_app()
