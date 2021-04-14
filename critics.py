@@ -16,15 +16,24 @@ def pick_random_critic(id):
     all, number_of_all = get_critics(id)
     pick_one = random.randint(0, number_of_all-1)
     random_critic = all["results"][pick_one]
-    display_name = random_critic["display_name"]
+    display_name = list(random_critic["display_name"])
     return random_critic, display_name
 
 
-def critics_reviews(id):
-    """
-    - get display name
-    - concatenate first%20middle%20last
-    - append to URL 
-    - return reviews
-    """
-    return get_critics(id=id)
+def name_to_url():
+    display_name = pick_random_critic(id)[1]
+    names = []
+    for n in display_name:
+        if n != ' ':
+            names.append(n)
+        elif n == ' ':
+            names.append("%20")
+    url_suffix = ''.join(names)
+    return url_suffix
+
+def individual_critic(id):
+    critic_name = name_to_url()
+    URL = f"https://api.nytimes.com/svc/movies/v2/critics/{critic_name}.json"
+    response = requests.get(URL, params=params)
+    print(URL)
+    return response.json()
