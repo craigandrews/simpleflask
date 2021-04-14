@@ -20,5 +20,11 @@ def pick_random_critic(id):
     return random_critic, display_name
 
 
-def specific_critic(id):
+def critics_reviews(id):
+    """
+    - get display name
+    - concatenate first%20middle%20last
+    - append to URL 
+    - return reviews
+    """
     return get_critics(id=id)

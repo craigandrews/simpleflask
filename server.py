@@ -16,9 +16,9 @@ def create_app():
     def random_critic():
         return pick_random_critic(id)
 
-    @app.route('/critics/<int:id>', methods=['GET'])
+    @app.route('/critics/reviews', methods=['GET'])
     def get_specific_critic(id):
-        return specific_critic(id)
+        return "All the reviews of one critic."
 
     return app
 
