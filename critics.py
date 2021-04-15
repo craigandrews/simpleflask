@@ -31,9 +31,9 @@ def name_to_url():
     url_suffix = ''.join(names)
     return url_suffix
 
+
 def individual_critic(id):
-    critic_name = name_to_url()
-    URL = f"https://api.nytimes.com/svc/movies/v2/critics/{critic_name}.json"
+    id = name_to_url()
+    URL = f"https://api.nytimes.com/svc/movies/v2/critics/{id}.json"
     response = requests.get(URL, params=params)
-    print(URL)
     return response.json()
