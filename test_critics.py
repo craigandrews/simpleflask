@@ -25,11 +25,3 @@ def test_name_to_url():
     responses.add(responses.GET, URL, json=expected_result_one, status=200)
     name = name_to_url()
     assert name == "A.%20O.%20Scott"
-
-
-@responses.activate
-def test_individual_critic():
-    id = "A.%20O.%20Scott"
-    responses.add(responses.GET, URL, status=200)
-    individual = individual_critic(id)
-    print(individual)
