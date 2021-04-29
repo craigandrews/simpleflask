@@ -19,6 +19,10 @@ def create_app():
     def get_individual_critic():
         return individual_critic(id)
 
+    @app.route('/reviews/picks', methods=['GET'])
+    def get_critics_picks():
+        pass
+
     return app
 
 if __name__ == "__main__":

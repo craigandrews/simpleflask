@@ -1,3 +1,6 @@
+URL_CRITICS = f"https://api.nytimes.com/svc/movies/v2/critics/{id}.json"
+params = {'api-key':'9eU3GwocQRJ3rOcFjBMAYh5MRUAh5WbG'}
+
 expected_result_one = {
    "copyright":"Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
    "num_results":1,
